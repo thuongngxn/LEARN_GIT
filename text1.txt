@@ -2,3 +2,4 @@
 'Spyder Test'
 
 Spyder Text part 2
+Spyder Text part 3
